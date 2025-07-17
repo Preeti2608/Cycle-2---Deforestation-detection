@@ -1,1 +1,1 @@
-# Cycle-2---Deforestation-detection
+# Cycle-2-Deforestation-detection
